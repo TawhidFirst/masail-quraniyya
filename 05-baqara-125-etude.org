@@ -1,0 +1,66 @@
+#+TITLE: Unité 8, ce que la numérotation apprend sur le témoin de Berlin
+
+* Le fait
+À la quatrième masʾala de 2/124, les témoins divergent sur un mot, et la
+divergence entraîne tout le comptage qui suit.
+
+| témoin | le mot | le comptage ensuite |
+|--------+--------+---------------------|
+| ك, ط, د | سألها للذرية، *وهي الخامسة* | السادسة, السابعة, الثامنة |
+| ب | سألها لذريته، *وهي الخاصة* | الخامسة, السادسة, السابعة |
+
+=الخاصة= et =الخامسة= ne diffèrent que par un mīm.
+
+Chaque témoin est cohérent avec lui-même : celui qui lit =الخامسة= compte la
+demande pour la descendance comme une masʾala, celui qui lit =الخاصة= ne la
+compte pas. On pourrait donc croire à deux recensions également recevables.
+
+* Ce qui tranche : ب s'est corrigé
+Le copiste de ب a d'abord écrit *السادسة*, puis il a barré et porté
+*الخامسة* à l'encre rouge dans la marge.
+
+Autrement dit, *son modèle portait le comptage des trois autres*. C'est lui,
+ou son modèle immédiat, qui a lu =الخاصة= et qui a ensuite renuméroté pour
+rester cohérent.
+
+Le comptage original est donc celui de ك, ط et د, et je l'ai rétabli dans le
+texte établi.
+
+* La portée pour la suite du travail
+C'est le *second* cas où ب innove en régularisant. Le premier était l'ordre
+des sourates à l'unité 7, où ب place 2/124 avant 2/139 contre les trois
+autres témoins, conformément à l'ordre du Coran.
+
+*ب est un témoin ancien, mais pas un témoin passif.* Son copiste, ou celui de
+son modèle, intervient : il remet les sourates dans l'ordre, il renumérote
+pour rester cohérent avec sa lecture. Les six rejets marginaux déjà relevés
+montraient un manuscrit collationné, ce qui est une qualité. Ils montrent
+aussi une main qui ne se contente pas de recopier.
+
+*Conséquence de méthode* : chaque leçon propre à ب doit désormais être
+examinée d'abord comme une intervention possible, avant d'être retenue comme
+une leçon ancienne.
+
+* Et ce qui, par contraste, se trouve renforcé
+L'accord de ب avec ك contre les deux imprimés à =حِلم= (2/102 m. 13) ne peut
+pas s'expliquer par une intervention de ب, puisque ك le porte aussi et que ك
+se range partout ailleurs avec les imprimés. Les deux copies portent la
+même haie de points et la même absence de point sur la première lettre, et
+la lecture est acquise sans recours au raisonnement.
+
+Ce lieu reste donc le seul, dans cette sourate, où l'on atteigne un état du
+texte antérieur à la tradition imprimée. Sa valeur augmente d'autant que les
+singularités de ب s'expliquent, elles, par son copiste.
+
+** Un second lieu que l'examen a retiré
+J'avais joint à =حِلم= un second accord, =اتباع غير كتاب الله= à 2/102 m. 33,
+où les deux manuscrits paraissaient donner un texte plus court que les
+imprimés. Le retour au folio à fort grossissement l'a retiré. Dans ب le mot
+=كتاب= est bien là, écrit au-dessus de la ligne entre =اتباع= et =غير=, d'un
+calame plus fin mais d'une encre voisine. Dans ك un mot est biffé au même
+endroit, dont le tracé commence par un kāf sans que la photographie permette
+de le lire.
+
+Ce qui reste de ce lieu n'est donc pas une leçon, c'est une leçon de méthode.
+La collation s'était faite sur la ligne seule, et le mot était au-dessus.
+Voir le relevé des interlignes, où ce folio ne figurait pas.

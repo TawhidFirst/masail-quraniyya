@@ -1,29 +1,7 @@
-# The published branch carries the Arabic report and nothing else: the
-# French version, the working units, the journal and the plate originals
-# all stay on disk and out of git.
-/*
-!.gitignore
-!index.html
-!openseadragon.min.js
-!images-apport-manuscrits/
-!pages-manuscrits/
-
-# Inside the two asset folders, only the served .webp are tracked.
-images-apport-manuscrits/*
-pages-manuscrits/*
-!images-apport-manuscrits/*.webp
-!pages-manuscrits/*.webp
-
-# Plates of an entry withdrawn during the collation, and one folio shown
-# to be misnumbered: present on disk, never served.
-images-apport-manuscrits/B1-alla-yubada-illa-Allah--K-f5v.webp
-images-apport-manuscrits/B1b-alla-yubada--B-f12r.webp
-images-apport-manuscrits/B1c-alla-yubada--R-p87.webp
-images-apport-manuscrits/B1d-alla-yubada--Dad-p11.webp
-images-apport-manuscrits/B1e-alla-yubada--N-p18.webp
-pages-manuscrits/B-f12r.webp
-pages-manuscrits/Dad-p11.webp
-pages-manuscrits/K-f10v.webp
-pages-manuscrits/K-f5v.webp
-pages-manuscrits/N-p18.webp
-pages-manuscrits/R-p87.webp
+# This branch carries what a remote session needs to go on working: the
+# journal, the French version, the working units. The site is built from
+# main, which this branch never touches. Images are already on main.
+*.png
+*.pdf
+images-apport-manuscrits/anciennes-planches/
+.DS_Store

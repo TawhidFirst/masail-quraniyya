@@ -1,0 +1,59 @@
+#+TITLE: Unité 7, un écart d'ordre entre le manuscrit de Berlin et les trois autres témoins
+
+* Le fait
+Après la fin des masāʾil de al-Baqara 109, les quatre témoins ne passent pas
+au même verset.
+
+| témoin | enchaînement |
+|--------+--------------|
+| *ب* | 2/109 ⟶ *2/124* |
+| ك, ط, د | 2/109 ⟶ *2/139* ⟶ 2/124 |
+
+ط place 2/139 à ses pages 24-25 et 2/124 à sa page 26. د fait de même,
+pp. 5915-5917. ك, sur la même ouverture, donne les masāʾil de 2/139 puis
+enchaîne, à l'encre rouge, sur =وقال الشيخ رحمه الله: ذكر بعض ما في قوله
+﴿وإذ ابتلى إبراهيم ربه بكلمات﴾=.
+
+ب est donc *seul* à placer 2/124 avant 2/139.
+
+* Ce qu'on peut en dire, et ce qu'on ne peut pas
+** L'ordre de ب est l'ordre du Coran
+124 précède 139. Le manuscrit suit la sourate, les trois autres témoins
+l'interrompent et y reviennent.
+
+Or l'ouvrage est un commentaire suivi : il traite al-Fātiḥa, puis 2/102, puis
+2/109. L'ordre coranique est la règle de composition du livre lui-même
+jusqu'ici. L'ordre de ب est donc conforme au principe de l'ouvrage, celui des
+trois autres y fait exception.
+
+** Mais ب est seul, et le nombre est contre lui
+Trois témoins, dont un manuscrit, s'accordent sur l'ordre inverse. La règle
+ordinaire ferait retenir leur leçon.
+
+*Je ne tranche pas.* Deux explications tiennent également :
+
+1. le modèle commun avait l'ordre coranique, et une inversion s'est produite
+   dans la branche de ك, ط et د. ب l'aurait conservé.
+2. l'auteur lui-même avait traité 2/139 avant 2/124, pour une raison de
+   matière et non d'ordre, et un copiste de la branche de ب aurait
+   *corrigé* en remettant les sourates dans l'ordre.
+
+La seconde hypothèse est la plus économique : un copiste soigneux qui
+rétablit l'ordre coranique est un accident de transmission fréquent, alors
+qu'une interversion partagée par trois témoins demande une cause commune.
+
+** Ce qu'il faut pour trancher
+Vérifier si ب donne 2/139 *plus loin*, après 2/124. S'il le donne, l'ordre de
+ب est un simple déplacement et l'hypothèse de la correction se renforce. S'il
+ne le donne pas du tout, la question change de nature.
+
+C'est le premier point à régler en poursuivant la lecture du manuscrit.
+
+* Le texte lui-même ne diverge presque pas
+Une fois passé l'ordre, les quatre témoins donnent les cinq premières masāʾil
+de 2/124 dans les mêmes termes. Les écarts sont de pure forme : =معرفة أن
+الله تعالى= contre =معرفة أنه تعالى=, =فإنه ما جعله= contre =لأنه ما جعله=,
+=بعد ما تمَّ= contre =بعد ما أتمَّ=, =هل يفعلون= contre =هل يفعلونه=.
+
+Aucune n'affecte le sens. Le désaccord porte sur la place de la section, non
+sur son contenu.
