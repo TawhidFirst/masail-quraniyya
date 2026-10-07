@@ -1,0 +1,17 @@
+# Plate originals before conversion: 1371 files, 2.1 GB. The site only ever
+# serves the .webp versions, which are tracked.
+*.png
+
+# Generated register: its 1350 illustrations are the .png above, so the page
+# would be published with broken images. The .org source is tracked instead.
+images-apport-manuscrits/00-index.html
+
+# Source PDFs live one level up and are never committed: three of them are
+# above GitHub's 100 MiB per-file limit (ر 227.7, ن 158.1, ب 107.7 MiB).
+*.pdf
+
+.DS_Store
+
+# Superseded plates kept on disk while re-cutting; none of them is served, and
+# one carries a folio number later shown to be wrong.
+images-apport-manuscrits/anciennes-planches/

@@ -1,0 +1,90 @@
+#+TITLE: Unité 2, البقرة ١٠٢, étude
+
+* Le texte
+[[file:02-baqara-102.html][02-baqara-102.txt]], rendu en [[file:02-baqara-102.html][02-baqara-102.html]]. Masāʾil 1 à 23, ff. 2r-2v de ب.
+La suite, à partir de la vingt-quatrième, est au f. 3r.
+
+* Le résultat principal : د est plus proche du manuscrit que ط
+Sur cette unité, les trois témoins se répartissent ainsi :
+
+| lieu | ب | ط | د |
+|------+---+---+---|
+| m. 11, =والعمل= | présent | *absent* | présent |
+| m. 17 | =الشرك أكبر= | =الشرك الأكبر= | =الشرك أكبر= |
+| ordinaux 11-23 | =عشر= | =عشرة= | =عشر= |
+| m. 13 | *=حِلم=* | =علم= | =علم= |
+| m. 15 | *=اللسان=* | =النساء= | =النساء= |
+
+Deux groupes se dessinent, et ils ne se recouvrent pas :
+
+1. *ب et د contre ط*, sur trois points. Le plus net est la onzième masʾala,
+   où ط omet =والعمل= que les deux autres portent. Ce n'est pas une variante
+   de goût, c'est une lacune.
+2. *ب seul contre ط et د*, sur deux mots, et deux seulement.
+
+La conclusion est que *les Durar sont, sur cette unité, un meilleur témoin
+que l'édition des Muʾallafāt*, qui abrège et normalise. Le même constat avait
+été fait sur l'unité 1 pour les ordinaux. Il se confirme et s'élargit.
+
+* Les deux variantes propres à ب
+** m. 13, =سعة حِلم الله= contre =سعة علم الله=
+La lecture de ب est certaine au grossissement : ḥāʾ non pointée, nettement
+distincte du ʿayn de =سَعة= qui la précède immédiatement dans le même mot
+suivant.
+
+Le sens tranche dans le même sens que le manuscrit : =حِلم= et =مغفرة= et
+=رحمة= forment un nasaq d'attributs de clémence. =علم= n'appartient pas à
+cette série.
+
+*Et ce n'est pas un accident de copie* : la fiche du dossier avait relevé la
+même leçon =حِلم= dans le manuscrit de King Saud 2351. Deux témoins
+manuscrits indépendants portent donc =حِلم= contre les deux imprimés.
+
+** m. 15, =أن اللسان من أكبر الفتن= contre =أن النساء=
+La lecture de ب est également certaine : deux lām après l'alif, pas de point
+sur la seconde lettre, et finale en nūn pointée, non en hamza.
+
+Les deux leçons se défendent :
+- pour les imprimés, le verset parle de ce =يفرِّقون به بين المرء وزوجه=,
+  et la fitna des femmes est le lieu commun attendu.
+- pour ب, le sujet du passage est le sorcier, qui opère par la parole et la
+  ruqya, et la langue est l'organe de son art.
+
+Le passage d'un mot à l'autre est paléographiquement facile dans les deux
+sens. *Je ne tranche pas*, mais je note que ب est le plus ancien des trois
+témoins, et que sa lecture n'y est pas douteuse.
+
+* Ce que le manuscrit apprend sur sa propre fabrication
+À la dix-neuvième masʾala, ب omet =أن المتكلم= dans la ligne et le rétablit
+en marge. Les deux imprimés portent ces mots.
+
+Le rejet marginal prouve que *ب a été collationné sur son modèle après
+copie*. C'est un argument de qualité pour le témoin, et il s'ajoute à son
+ancienneté.
+
+* Contrôle de mes propres lectures
+Cinq de mes lectures de ب se sont révélées douteuses, et le texte des deux
+imprimés les a redressées : masāʾil 12, 14, 17, 22 et 23. Elles sont
+signalées comme telles en note.
+
+C'est l'usage normal de l'imprimé dans un taḥqīq : il ne fait pas autorité
+sur le manuscrit, mais il sert de contrôle de déchiffrement. Les cinq
+passages restent à revoir sur l'original, ou sur l'image IIIF en pleine
+résolution, avant publication.
+
+* Takhrīj
+- m. 21, =المعاصي بريد الكفر= : formule ancienne, attribuée à Abū Ḥafṣ
+  al-Naysābūrī chez al-Qushayrī, =الرسالة= p. 206, et reprise dans la
+  =الغنية= d'ʿAbd al-Qādir al-Jīlānī. Ibn Taymiyya la cite dans =مجموع
+  الفتاوى= et =الصارم المسلول= p. 31, Ibn Rajab dans =جامع العلوم والحكم=
+  2/492.
+
+  L'auteur ne la forge donc pas : il la reçoit par Ibn Taymiyya. Le fait
+  s'ajoute à l'argument interne relevé sur l'unité 1 à propos du hadith de la
+  huitième masʾala.
+
+* À faire
+1. Reprendre les cinq lectures douteuses sur l'image en pleine résolution.
+2. Poursuivre au f. 3r, masāʾil 24 et suivantes.
+3. Vérifier si le manuscrit de King Saud couvre cette unité, ce qui donnerait
+   un quatrième témoin sur les deux variantes propres à ب.
