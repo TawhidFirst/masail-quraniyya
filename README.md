@@ -1,24 +1,24 @@
-# The manuscripts' contributions to the Qurʾanic *masāʾil* of Muḥammad b. ʿAbd al-Wahhāb
+# ما تُفيدُه المخطوطاتُ ممَّا يتغيَّر به المعنى
 
-A critical report on the places where the manuscripts differ from the printed
-editions, in two parallel versions, French and Arabic, each illustrated with the
-leaf it rests on.
+A critical report, in Arabic, on the places where the manuscripts of the
+Qurʾanic *masāʾil* of Muḥammad b. ʿAbd al-Wahhāb differ from the two printed
+editions, each place illustrated with the leaf it rests on.
 
-## The site
+Published at **https://tawhidfirst.github.io/masail-quraniyya/**
+
+## What is in this branch
 
 | | |
 |---|---|
-| `00-apports-qui-changent-le-sens.html` | French version |
-| `00-apports-ar.html` | Arabic version |
+| `00-apports-ar.html` | the report, self-contained |
+| `index.html` | sends the reader to it |
+| `images-apport-manuscrits/*.webp` | 232 plates cut from the leaves |
+| `pages-manuscrits/*.webp` | 176 manuscript pages at their own resolution |
+| `openseadragon.min.js` | the viewer, 271 KB, vendored, no CDN |
 
-Both are self-contained: a reader needs no server and no network. Every reading
-links to the page of the manuscript that carries it, which opens in a viewer
-over the report (OpenSeadragon 5.0.1, vendored, no CDN), and every printed
-reading links to its page on Shamela.
-
-- `images-apport-manuscrits/*.webp` — 246 plates, cut from the leaves
-- `pages-manuscrits/*.webp` — 182 manuscript pages at their own resolution
-- `openseadragon.min.js` — the viewer, 271 KB
+The report needs no server and no network of its own. Every manuscript reading
+links to the page that carries it, which opens in a viewer over the report, and
+every printed reading links to its page on Shamela.
 
 ## The witnesses
 
@@ -34,16 +34,12 @@ reading links to its page on Shamela.
 | ط | printed, Shamela 11099 |
 | د | printed, Shamela 3055 |
 
-## What is not here
+## What is not in this branch
 
-The plate originals before conversion (1371 PNG files, 2.1 GB) and the source
-PDFs are not committed: three of the PDFs are above GitHub's 100 MiB per-file
-limit, and the site never serves either. The working journal is kept as its
-`.org` source, `images-apport-manuscrits/00-index.org`; its generated HTML is
-not committed because its illustrations are the PNG files.
+The French version of the report, the working units of the edition, the working
+journal, the plate originals before conversion (2.1 GB of PNG) and the source
+PDFs. They are kept outside git: three of the PDFs are above GitHub's 100 MiB
+per-file limit, and none of this is served.
 
-## Rebuilding
-
-The journal is regenerated with the repository's own converter:
-
-    uv run --quiet python ../../../../outils/org2html.py 00-index.org
+Eleven `.webp` are present on disk but excluded by name: the plates of an entry
+withdrawn during the collation, and one folio shown to be misnumbered.

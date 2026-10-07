@@ -1,17 +1,31 @@
-# Plate originals before conversion: 1371 files, 2.1 GB. The site only ever
-# serves the .webp versions, which are tracked.
-*.png
+# The published branch carries the Arabic report and nothing else: the
+# French version, the working units, the journal and the plate originals
+# all stay on disk and out of git.
+/*
+!.gitignore
+!README.md
+!index.html
+!00-apports-ar.html
+!openseadragon.min.js
+!images-apport-manuscrits/
+!pages-manuscrits/
 
-# Generated register: its 1350 illustrations are the .png above, so the page
-# would be published with broken images. The .org source is tracked instead.
-images-apport-manuscrits/00-index.html
+# Inside the two asset folders, only the served .webp are tracked.
+images-apport-manuscrits/*
+pages-manuscrits/*
+!images-apport-manuscrits/*.webp
+!pages-manuscrits/*.webp
 
-# Source PDFs live one level up and are never committed: three of them are
-# above GitHub's 100 MiB per-file limit (ر 227.7, ن 158.1, ب 107.7 MiB).
-*.pdf
-
-.DS_Store
-
-# Superseded plates kept on disk while re-cutting; none of them is served, and
-# one carries a folio number later shown to be wrong.
-images-apport-manuscrits/anciennes-planches/
+# Plates of an entry withdrawn during the collation, and one folio shown
+# to be misnumbered: present on disk, never served.
+images-apport-manuscrits/B1-alla-yubada-illa-Allah--K-f5v.webp
+images-apport-manuscrits/B1b-alla-yubada--B-f12r.webp
+images-apport-manuscrits/B1c-alla-yubada--R-p87.webp
+images-apport-manuscrits/B1d-alla-yubada--Dad-p11.webp
+images-apport-manuscrits/B1e-alla-yubada--N-p18.webp
+pages-manuscrits/B-f12r.webp
+pages-manuscrits/Dad-p11.webp
+pages-manuscrits/K-f10v.webp
+pages-manuscrits/K-f5v.webp
+pages-manuscrits/N-p18.webp
+pages-manuscrits/R-p87.webp
