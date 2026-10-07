@@ -3,9 +3,7 @@
 # all stay on disk and out of git.
 /*
 !.gitignore
-!README.md
 !index.html
-!00-apports-ar.html
 !openseadragon.min.js
 !images-apport-manuscrits/
 !pages-manuscrits/
