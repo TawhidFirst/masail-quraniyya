@@ -1862,6 +1862,23 @@ la superposition des deux leçons : ~لفعلها~ dans lequel s'est glissé le 
 de ~لنفعها~. Les Durar avaient donc ~لفعلها~ sous les yeux, et la leçon de
 l'autre édition y a coulé.
 
+** AQ4 ~بيان لنفعلها~, la marge de ن
+[[file:AQ4-li-nafaliha--N-p59.webp]]
+
+*ن, p. 59 (numéro du copiste ; p. 61 du PDF).* Dans la ligne, ~مدحها ل…فعلها
+منها الصبر~ : une tache d'encre couvre la dent qui suit le lām. En marge
+gauche, en face, ~بيان~ puis ~لنفعلها~ : le lām, une dent à un seul point, le
+fāʾ pointé, le ʿayn, le lām et ها. La marge rend lisible ce que la tache cache.
+
+*Ce qui précède sur ~لنفعلها~ est retiré.* Le mot est arabe : ~لِنَفْعَلَها~,
+lām de but et inaccompli de la première personne du pluriel. Il n'est plus le
+fait de د seul, un manuscrit le porte, et ce manuscrit ne suit pas ط ici (ط a
+~لنفعها~). Il est aussi la forme d'où sortent les deux autres par la perte
+d'un seul trait : sans la dent du nūn, ~لفعلها~ (ب ر) ; sans le lām,
+~لنفعها~ (ض ط). Et la parallèle avec la science suivante est plus nette :
+~مدحها لنفعلها~ en face de ~ذكرها لتترك~, lām de but et verbe des deux côtés.
+Le texte établi devient ~لنفعلها~ (unité [[file:../64-hud-3.html][64]]).
+
 ** AQ2 ~كونهم ما يستطيعون السمع إلى آخره~
 [[file:AQ2-ma-yastatiun--B-f38r.png]]
 
