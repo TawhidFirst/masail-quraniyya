@@ -1870,14 +1870,21 @@ l'autre édition y a coulé.
 gauche, en face, ~بيان~ puis ~لنفعلها~ : le lām, une dent à un seul point, le
 fāʾ pointé, le ʿayn, le lām et ها. La marge rend lisible ce que la tache cache.
 
-*Ce qui précède sur ~لنفعلها~ est retiré.* Le mot est arabe : ~لِنَفْعَلَها~,
-lām de but et inaccompli de la première personne du pluriel. Il n'est plus le
-fait de د seul, un manuscrit le porte, et ce manuscrit ne suit pas ط ici (ط a
-~لنفعها~). Il est aussi la forme d'où sortent les deux autres par la perte
-d'un seul trait : sans la dent du nūn, ~لفعلها~ (ب ر) ; sans le lām,
-~لنفعها~ (ض ط). Et la parallèle avec la science suivante est plus nette :
-~مدحها لنفعلها~ en face de ~ذكرها لتترك~, lām de but et verbe des deux côtés.
-Le texte établi devient ~لنفعلها~ (unité [[file:../64-hud-3.html][64]]).
+*Ce qui précède sur ~لنفعلها~ est en partie retiré.* Le mot est arabe :
+~لِنَفْعَلَها~, lām de but et inaccompli de la première personne du pluriel,
+et un manuscrit le porte. Ce n'est donc pas une superposition propre à د.
+
+*Il ne l'emporte pas pour autant sur ب.* La parallèle avec ~ذكرها لتترك~ ne
+le sert pas : ~لنفعلها~ est un actif à la première personne du pluriel, ~لتترك~
+un passif, ou une deuxième personne. Et la forme ne dit pas le sens de la
+copie : ~لفعلها~ gagnant une dent donne ~لنفعلها~, qui perdant son lām donne
+~لنفعها~, un trait à chaque pas. La forme ne tranche donc pas, et le texte
+établi suit le nombre : ~لنفعلها~, avec ر, ن et د, contre ب seul
+(unité [[file:../64-hud-3.html][64]]).
+
+*Et ب ne tient pas le parallèle non plus.* À la science suivante, il porte
+~ذكر لنترك~, une dent à un point puis une dent à deux points, là où ض, ر, ن,
+ط et د ont ~لتترك~.
 
 ** AQ2 ~كونهم ما يستطيعون السمع إلى آخره~
 [[file:AQ2-ma-yastatiun--B-f38r.png]]
@@ -7692,8 +7699,9 @@ soulignés à l'encre du texte. Notice ~n63~.
 
 [[file:AQ3-li-filiha--R-p119.png]]
 
-*ر p. 119.* ~أمور مدحها لفعلها منها الصبر~ : le lām puis le fāʾ pointé, sans
-nūn entre eux. Notice ~n64~.
+*ر p. 119.* ~أمور مدحها لنفعلها منها الصبر~ : après le lām, deux dents
+pointées, nūn puis fāʾ. La lecture ~لفعلها~ donnée ici d'abord était fausse.
+Notice ~n64~.
 
 [[file:AT2-al-khamisa-ilakh--R-p121.png]]
 
@@ -13691,6 +13699,9 @@ côté, ض et ط de l'autre.
 Et ~لنفعلها~ de د s'en trouve mieux expliqué : ce n'est pas un mot, c'est les deux
 leçons l'une sur l'autre, et chacune est maintenant attestée à la main. Unité 64.
 
+*Ce paragraphe est dépassé.* ر ne lit pas ~لفعلها~ mais ~لنفعلها~, comme ن, et
+~لنفعلها~ est un mot. Le texte établi est désormais ~لنفعلها~ (section XXXIX, AQ4).
+
 ** KA10 ~المكروه الصد~, et une note qui contredisait son texte
 [[file:KA10-al-makruh-al-sadd--Dad-p37.png]]
 
@@ -13767,8 +13778,12 @@ changement dans le texte établi, et une note de notre apparat qui tombe.
 ** KB14 et KB15 ~وكما يتعلم الرجل العلم لمدرسة أهله~
 [[file:KB14-al-rajul-al-ilm-madrasa--Dad-p38.png]]
 
-ض, p. 38, fin de la ligne 12 : ~الخ وكما يتعلم الرجل العلم لمدرسة~, et la ligne 13
-reprend ~أهله أو مكسبهم أو رياستهم~.
+ض, p. 38, fin de la ligne 12 : ~الخ وكما يتعلم الرجل العلم مد~, ~رسة~ au-dessus de
+la ligne, et la ligne 13 reprend ~أهله أو مكسبهم أو رياستهم~. Un signe de renvoi
+est posé entre ~العلم~ et ~مد~, et la marge droite porte ~لاجل صح~.
+
+*J'avais lu ~لمدرسة~, à tort* : il n'y a pas de lām devant le mīm, ~لأجل~ est
+en marge. Le mot qui suit ~يتعلم~ est surchargé ; on y lit ~الرجل~.
 
 [[file:KB15-yatallam-al-rajul--B-f39v.png]]
 
