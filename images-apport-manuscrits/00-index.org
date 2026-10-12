@@ -8149,10 +8149,12 @@ Unité : [[file:../80-yusuf-9.html][80]].
 
 [[file:GA5-isabat-al-mahazz--R-p129.png]]
 
-*ر p. 129.* Le même tracé. Le pointage ne se tranche pas sur ce cliché, la
-silhouette du mot si. Et al-Ḥusaynī lit ~المحز~ dans son ~ض~ aussi, qu'il glose
-~مفصل الأمور~. *Trois copies contre deux impressions*, et le mot est rendu au
-texte : voir la notice ~nMahazz~ du dossier.
+*ر p. 129.* ~وإصابة المخبر~ : un point sur le ḥāʾ, puis une dent avec un point
+dessous, puis le rāʾ. *J'avais lu ~المحز~ sur le tracé de ب, à tort* ; le
+pointage se lit au zoom. Et al-Ḥusaynī lit ~المحز~ dans son ~ض~, qu'il glose
+~مفصل الأمور~. *Deux copies, ب et ض, pour ~المحز~* ; ن et les deux impressions
+ont ~الحق~, ر seul ~المخبر~. Le mot reste rendu au texte : voir la notice
+~nMahazz~ du dossier.
 
 [[file:GA2-yujazi-al-muhsin--B-f46v.png]]
 
@@ -14343,7 +14345,7 @@ pas, et le lieu passe sur la liste.
 ** KH1 ~وإصابة المحز~, et al-Ḥusaynī exact une troisième fois
 [[file:KH1-wa-isabat-al-mahazz--Dad-p44.png]]
 
-ض, p. 44, ligne 1 : ~والحكم العمل به وإصابة المحز في قوله وكذلك~. Le ḥāʾ sans
+ض, p. 44, ligne 1 : ~والحكم العمل به واصابه المحز قوله وكذلك~. Le ḥāʾ sans
 point, le zāy pointé.
 
 Sa thèse donnait ~المحز~ pour ب et pour ض. Nous avions vérifié ب, et portions ض
@@ -14353,7 +14355,7 @@ renseignements sur ce manuscrit se vérifie au mot près, après ~حدثنا~ et
 
 Le mot compte : ~المحزّ~ est la jointure de l'os, et ~أصاب المحزّ~ se dit de qui
 prend une affaire par où il faut. Les imprimés écrivent ~الحق~, qui est plus
-facile et dit moins. Trois manuscrits portent le mot rare.
+facile et dit moins. Deux manuscrits, ب et ض, portent le mot rare ; ر a ~المخبر~.
 
 ** KH2 ce que Berlin avait perdu entre deux semblables
 [[file:KH2-bi-khayr-al-dunya-wal-akhira--Dad-p44.png]]
