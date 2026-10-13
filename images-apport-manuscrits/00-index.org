@@ -14531,6 +14531,16 @@ la question sort des points en suspens.*
 ب f. 59v, ر p. 143, ض p. 54 : ~على عدم الالتفات الى ابيهم~ ; ن p. 92 : mot noirci dans la ligne, ~ابيهم صح~ en marge.
 ط et د seuls portent ~التهمة~. Adopté (unité 108).
 
+** NV9 ــ NV13 ~الثامنة: تغليظ رد النص بالرأي~, absente de ط seule
+[[file:NV9-radd-al-nass--B-f20v.webp]]
+[[file:NV10-radd-al-nass--K-f11v.webp]]
+[[file:NV11-al-nass-bil-ray--R-p96.webp]]
+[[file:NV12-radd-al-nass--Dad-p23.webp]]
+[[file:NV13-radd-al-nass--N-p36.webp]]
+
+ب f. 20v (~شان~ corrigé en ~رد~ au-dessus), ك f. 11v, ض p. 23, ن p. 36, et د 5979 ; ر p. 96, début de ligne dans la reliure.
+ط s'arrête à la septième. Ajoutée au texte (unité 26).
+
 ** KL2 ~ففيه مسائل~, la fāʾ et le calame
 [[file:KL2-fa-fihi-masail--Dad-p47.png]]
 
