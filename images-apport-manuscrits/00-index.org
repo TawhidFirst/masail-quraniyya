@@ -14541,6 +14541,15 @@ la question sort des points en suspens.*
 ب f. 20v (~شان~ corrigé en ~رد~ au-dessus), ك f. 11v, ض p. 23, ن p. 36, et د 5979 ; ر p. 96, début de ligne dans la reliure.
 ط la porte aussi, en tête de la p. 68. Rétablie dans le texte (unité 26) ; pas d'entrée au rapport.
 
+** NV14 ــ NV17 ~اقرار بما فعلت~, la glose de Yūsuf 51 dans trois manuscrits
+[[file:NV14-hashasa-bila-iqrar--B-f55v.webp]]
+[[file:NV15-iqrar-bima-faalat--R-p138.webp]]
+[[file:NV16-iqrar-bima-faalat--Dad-p51.webp]]
+[[file:NV17-iqrar-bima-faalat--N-p85.webp]]
+
+ر p. 138, ض p. 51, ن p. 85 : ~اقرار بما فعلت وقولها وانه لمن الصادقين في قوله هي راودتني عن نفسي~ ; ب f. 55v, ط 149 et د 6083 sans.
+Adoptée (unité 99).
+
 ** KL2 ~ففيه مسائل~, la fāʾ et le calame
 [[file:KL2-fa-fihi-masail--Dad-p47.png]]
 
