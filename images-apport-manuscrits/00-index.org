@@ -14522,6 +14522,15 @@ la question sort des points en suspens.*
 ض p. 47 sans l'addition. Avec ن, l'addition est dans trois manuscrits contre un : elle est adoptée
 (unité 89), hors des accolades coraniques, comme glose du Šayḫ. Ce qui est dit sous KL1 est donc dépassé.
 
+** NV5 ــ NV8 ~إلى أبيهم~, les quatre manuscrits contre les imprimés
+[[file:NV5-ila-abihim--B-f59v.webp]]
+[[file:NV6-ila-abihim--R-p143.webp]]
+[[file:NV7-ila-abihim--Dad-p54.webp]]
+[[file:NV8-ila-abihim--N-p92.webp]]
+
+ب f. 59v, ر p. 143, ض p. 54 : ~على عدم الالتفات الى ابيهم~ ; ن p. 92 : mot noirci dans la ligne, ~ابيهم صح~ en marge.
+ط et د seuls portent ~التهمة~. Adopté (unité 108).
+
 ** KL2 ~ففيه مسائل~, la fāʾ et le calame
 [[file:KL2-fa-fihi-masail--Dad-p47.png]]
 
